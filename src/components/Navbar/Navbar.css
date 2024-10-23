@@ -1,0 +1,3 @@
+.navbar{
+    @apply w-full fixed flex justify-between items-center p-4 text-xl
+}
